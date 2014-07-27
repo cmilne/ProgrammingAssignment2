@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## These two functions work together to quickly get the inverse of a matrix
+## Time is saved since a cache is kept prevent the function from having to be run again
 
 ## Write a short comment describing this function
 ## This is a function that creates the inverse of a matrix
